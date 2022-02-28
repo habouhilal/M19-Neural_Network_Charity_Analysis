@@ -16,11 +16,14 @@ The other columns were removed from the input data.
 
 The model was trained with 2 hidden layers, one 80 and the other one 30 neurons. the result summary below: 
 
-
+<img width="919" alt="model_results" src="https://user-images.githubusercontent.com/91625564/155923345-3ad7e2c1-854b-4845-900d-d5757c02f683.png">
 
 
 
 After the optimized model, I added a third hidden layer. I decided to use a sigmoid activation function. These 3 layers had 80, 40, and 8 neurons respectfully.
+
+<img width="919" alt="model_results_opt" src="https://user-images.githubusercontent.com/91625564/155923378-1c5f16bd-0cca-4be5-8103-06174146c5bc.png">
+
 
 
 ## Summary 
